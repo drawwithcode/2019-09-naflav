@@ -3,7 +3,6 @@ let img;
 function preload() {
   //preload images
   soap = loadImage('/soapy.png');
-  bubble = loadImage('/bubbly.png');
 }
 
 function setup() {
