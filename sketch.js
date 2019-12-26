@@ -1,8 +1,8 @@
-let img;
+let soap;
 
 function preload() {
   //preload images
-  soap = loadImage('/soapy.png');
+  soap = loadImage('soapy.png');
 }
 
 function setup() {
